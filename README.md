@@ -5,7 +5,7 @@
 ### Context:
 The presentation analyzes the effectiveness of four marketing campaigns related to promoting a Robot Operating System (ROS) whitepaper. The goal was to evaluate campaign performance, identify areas for improvement, and recommend strategies to enhance future campaign planning and ROI. Three datasets were used to assess campaign metrics, including page views, leads, and conversions.
 
-### Approach"
+### Approach
 Data Preprocessing:
 
 - Handled missing data (ranging from 1% to 80%) and standardized the dataset to 2,507 rows with 14 columns.
